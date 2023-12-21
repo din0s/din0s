@@ -1,10 +1,10 @@
 ### Hi there, I'm dinos 👋
 
-I am currently pursuing a MSc degree in [Artificial Intelligence](https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html) at the University of Amsterdam, with interests in the fields of **Information Retrieval** and **Natural Language Processing**. As a Research Intern at [Zeta Alpha](https://zeta-alpha.com), I am exploring the robustness and out-of-domain generalization of Dense Retrieval methods.
+I am a proud alumnus of the University of Amsterdam where I completed my MSc degree in [Artificial Intelligence](https://www.uva.nl/en/programmes/masters/artificial-intelligence/artificial-intelligence.html), with a deep interest in Information Retrieval and Natural Language Processing. I've now embarked on an exciting journey as a full-time Research Engineer at [Zeta Alpha](https://zeta-alpha.com), where I'm dedicated to pushing the boundaries of Dense Retrieval methods and enhancing their performance through domain adaptation.
 
-In the long term, I hope to use my skills and knowledge in Artificial Intelligence to make a positive impact on society. I am particularly interested in exploring how AI can be applied to search engines, recommender systems, and language understanding. After completing my MSc degree, I hope to join a research team that is working on related areas of AI development.
+Leveraging my skills and knowledge in Artificial Intelligence, I'm committed to making positive contributions to society. I have a strong passion for the application of AI in search engines, recommender systems, and language understanding technologies. Now, as part of the Zeta Alpha research team, I'm actively engaged in contributing to the advancement of AI development within these realms.
 
-I have a BSc degree in [Computer Science](https://www.csd.auth.gr/en/) from the Aristotle University of Thessaloniki, with minors in **Artificial Intelligence** and **Data & Web Management**. I was actively involved in the university's [ACM Student Chapter](https://auth.acm.org/en/) (Member since 2018, Chair during 2019-2021), where I had the chance to collaborate with many skilled people and share my knowledge on topics such as software development and career growth with the local tech community.
+Before my Master's studies, I obtained a BSc degree in [Computer Science](https://www.csd.auth.gr/en/) from the Aristotle University of Thessaloniki, where I specialized in **Artificial Intelligence** and **Data & Web Management**. During my time there, I also took a leadership role in the university's [ACM Student Chapter](https://auth.acm.org/en/) (Member since 2018, Chair from 2019-2021), which allowed me to foster collaborations and develop mentorship opportunities within the local tech community.
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=din0s&count_private=true&show_icons=true&include_all_commits=true) -->
 
@@ -14,7 +14,7 @@ I have a strong foundation in multiple programming languages, including C/C++, J
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din0s&layout=compact&hide_title=true&theme=dark&langs_count=8&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Don't hesitate to contact me if you have a neat idea that might be relevant to my interests!
+If you're intrigued by a challenging idea that aligns with my interests, or if you're curious about my work at Zeta Alpha, feel free to reach out!
 
 <!--
 **din0s/din0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
